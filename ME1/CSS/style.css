@@ -363,11 +363,79 @@
 {
     height: 100px;
     width: 100px;
-    background-color: rgb(253, 0, 0);
+    background-color: rgb(219, 218, 218);
     position: relative;
-    top:-2550px;
-    left: 850px;
+    top:-3050px;
+    left: 900px;
 }
+#box42
+{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(219, 218, 218);
+    position: relative;
+    top:-3050px;
+    left: 800px;
+}
+#box43
+{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(219, 218, 218);
+    position: relative;
+    top:-3250px;
+    left: 800px;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 10px;
+    padding: 5px;
+    border: 6px ;
+}
+#box44
+{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(219, 218, 218);
+    position: relative;
+    top:-3400px;
+    left: 850px;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 10px;
+    padding: 5px;
+    border: 6px ;
+}
+#box45
+{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(219, 218, 218);
+    position: relative;
+    top:-3550px;
+    left: 900px;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 10px;
+    padding: 5px;
+    border: 6px ;
+}
+#box46
+{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(219, 218, 218);
+    position: relative;
+    top:-3650px;
+    left: 970px;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 10px;
+    padding: 5px;
+    border: 6px ;
+}
+
+
+
 
 
 /*head*/
@@ -382,10 +450,10 @@
     border-radius: 10px;
     border-color: black;
     border-width: 5px;
-    border-inline-color: black;
+    
     padding: 5px;
     border: 6px solid black;
-    rotate: 1deg;
+    rotate: -5deg;
 }
 
 
@@ -404,6 +472,6 @@
     border-right: 15px solid transparent;
     border-bottom: 50px solid #aa0d0d;
     position: relative;
-    top: -2400px;
+    top: -3500px;
     left: 540px;
 }
