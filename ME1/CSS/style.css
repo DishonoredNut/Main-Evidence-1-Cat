@@ -672,7 +672,9 @@
 
 
 
-/* Eyes*/
+
+
+
 
 
 
@@ -748,5 +750,40 @@
     top: -5930px;
     left: 385px;
     rotate: -5deg;
+}
+
+/* Eyes*/
+
+#Circle3
+{
+    height: 60px;
+    width: 60px;
+    background-color: rgb(164, 218, 65);
+    position: absolute;
+    top:1100px;
+    left:420px;
+    border-color: black;
+    border-width: 30px;
+    border-radius: 70px;
+    
+    border: 6px ;
+    padding: 5px;
+    border: 6px solid black;
+}
+#Circle4
+{
+    height: 60px;
+    width: 60px;
+    background-color: rgb(164, 218, 65);
+    position: absolute;
+    top:1090px;
+    left:580px;
+    border-color: black;
+    border-width: 30px;
+    border-radius: 70px;
+    
+    border: 6px ;
+     padding: 5px;
+    border: 6px solid black;
 }
 
